@@ -1,0 +1,42 @@
+@import 'https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap';
+@import "tailwindcss";
+
+@theme {
+    --color-black: #232323;
+    --color-purple: #7600A8;
+    --color-white: #FFFFFF;
+    --light-gray-100: #D6D6D6;
+    --light-gray-200: #9C9C9C;
+    --font-sans: "Lato", ui-sans-serif, system-ui, sans-serif;
+    --shadow-md: 0px 4px 10px 0px #00000012;
+    --text-xl: 28px;
+    --text-lg: 22px;
+    --text-base: 16px;
+    --text-sm: 14px;
+    --text-xs: 12px;
+}
+
+@layer base {
+    html {
+        font-family: var(--font-sans);
+        color: var(--color-black);
+    }
+}
+
+@layer utilities {
+    .container {
+        width: 100%;
+        @media (width >= 40rem) {
+            max-width: 40rem;
+        }
+        @media (width >= 48rem) {
+            max-width: 48rem;
+        }
+        @media (width >= 64rem) {
+            max-width: 64rem;
+        }
+        @media (width >= 96rem) {
+            max-width: 73rem;
+        }
+    }
+}

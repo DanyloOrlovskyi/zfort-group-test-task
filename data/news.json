@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Breakthrough in AI",
+    "shortDescription": "New advancements in machine learning are changing the game.",
+    "text": "<p>Artificial intelligence continues to advance at an incredible pace. The new <strong>Grok-4 model</strong> from xAI has just been released, showing outstanding results in natural language understanding and code generation.</p><p>Key improvements:</p><ul><li>Context length increased to 128,000 tokens</li><li>Much better performance in math and logic tasks</li><li>Built-in multimodal support (text + images)</li></ul><p>Experts say these breakthroughs bring us closer to universal AI. <a href=\"https://x.ai\" target=\"_blank\">Learn more on xAI website →</a></p>",
+    "author": "Jane Doe",
+    "publicationDate": "15.12.2025",
+    "image": "https://placehold.co/400x200?text=AI+Breakthrough"
+  },
+  {
+    "id": 2,
+    "title": "Global Climate Summit Results",
+    "shortDescription": "Leaders agree on new emission targets.",
+    "text": "<p>The international climate summit in Dubai has ended with a historic agreement. More than <strong>100 countries</strong> pledged to cut greenhouse gas emissions by <em>50% by 2030</em>.</p><blockquote>“This is a turning point in the fight against climate change,” said the UN Secretary-General.</blockquote><p>Main decisions:</p><ol><li>Increase renewable energy investments to $1 trillion per year</li><li>Phase out coal by 2040</li><li>Create a global fund to support developing countries</li></ol><p>Critics note that the goals are ambitious, but the control mechanisms are still not strict enough.</p>",
+    "author": "John Smith",
+    "publicationDate": "14.12.2025",
+    "image": "https://placehold.co/400x200?text=Climate+Summit"
+  },
+  {
+    "id": 3,
+    "title": "Space Exploration Milestone",
+    "shortDescription": "New rover lands on Mars.",
+    "text": "<p>NASA has successfully landed the new rover <strong>Perseverance II</strong> in Jezero Crater. This is the second mission in the Mars sample return program.</p><p>Rover’s main tasks:</p><ul><li>Collect and cache rock samples for future delivery to Earth</li><li>Search for signs of ancient microbial life</li><li>Test oxygen production from Martian atmosphere</li><li>Test AI-based autonomous navigation</li></ul><p>First surface photos show amazing geological formations that may indicate water in the past.</p>",
+    "author": "Alex Johnson",
+    "publicationDate": "13.12.2025",
+    "image": "https://placehold.co/400x200?text=Space+Milestone"
+  },
+  {
+    "id": 4,
+    "title": "Economic Recovery Update",
+    "shortDescription": "Markets show positive growth.",
+    "text": "<p>The global economy is showing clear signs of recovery after the 2024 recession. <strong>US GDP</strong> grew by 4.2% in the fourth quarter, beating analyst forecasts.</p><p>Positive factors:</p><ul><li>Consumer spending up 6.8%</li><li>Over 300,000 new jobs created</li><li>Inflation stabilized at 2.1%</li></ul><p>Central banks are starting to cut rates, which stimulates investment. Experts predict continued growth in Q1 2026.</p>",
+    "author": "Emily Davis",
+    "publicationDate": "12.12.2025",
+    "image": "https://placehold.co/400x200?text=Economic+Update"
+  },
+  {
+    "id": 5,
+    "title": "Health Innovation in Vaccines",
+    "shortDescription": "New vaccine tech approved.",
+    "text": "<p>Regulators have approved a revolutionary <strong>universal mRNA vaccine</strong> against influenza that protects against all known strains.</p><p>Clinical trial results:</p><table><thead><tr><th>Group</th><th>Efficacy</th><th>Side effects</th></tr></thead><tbody><tr><td>Vaccinated</td><td>95%</td><td>Minimal</td></tr><tr><td>Placebo</td><td>12%</td><td>—</td></tr></tbody></table><p>Advantages of the new technology:</p><ul><li>One shot provides protection for several years</li><li>Fast adaptation to new mutations</li><li>No need for ultra-low temperature storage</li></ul><p>Mass production starts in January 2026.</p>",
+    "author": "Michael Brown",
+    "publicationDate": "11.12.2025",
+    "image": "https://placehold.co/400x200?text=Health+Innovation"
+  },
+  {
+    "id": 6,
+    "title": "Health Innovation in Vaccines2",
+    "shortDescription": "New vaccine tech approved.",
+    "text": "<p>Regulators have approved a revolutionary <strong>universal mRNA vaccine</strong> against influenza that protects against all known strains.</p><p>Clinical trial results:</p><table><thead><tr><th>Group</th><th>Efficacy</th><th>Side effects</th></tr></thead><tbody><tr><td>Vaccinated</td><td>95%</td><td>Minimal</td></tr><tr><td>Placebo</td><td>12%</td><td>—</td></tr></tbody></table><p>Advantages of the new technology:</p><ul><li>One shot provides protection for several years</li><li>Fast adaptation to new mutations</li><li>No need for ultra-low temperature storage</li></ul><p>Mass production starts in January 2026.</p>",
+    "author": "Michael Brown",
+    "publicationDate": "11.12.2025",
+    "image": "https://placehold.co/400x200?text=Health+Innovation"
+  }
+]

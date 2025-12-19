@@ -1,0 +1,4 @@
+/public/**/*
+/**/*.ts
+/**/*.js
+/src/assets/*
