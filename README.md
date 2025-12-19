@@ -54,12 +54,24 @@ src/
      └── news.json        # Mock news data
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
 - Node.js 18+
 - npm
+
+
+
+### Installation
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
 
 ### Build for Production
 
